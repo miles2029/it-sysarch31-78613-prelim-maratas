@@ -1,0 +1,56 @@
+
+
+.card {
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+    width: 20%;
+    }
+    
+    .card  img{
+    width: auto;
+    height: 150px;
+    margin-bottom: 10px;
+    }
+
+    .card h2 {
+        font-size: 20px;
+        margin-left: 5px;
+        color: #999;
+    }
+
+.card h3 span {
+    background-color: #f2f2f2;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 5px;
+
+    
+}
+
+.card p {
+    margin: 5px 0;
+}
+
+.card p span {
+    margin-left: 10px;
+    font-size: 0.9em; 
+    color: black;
+}
+
+
+
+.card {
+    /* Existing styles */
+    color: #333; /* Set the default text color for the card */
+}
+
+  
+span {
+    margin: 10px;
+}
